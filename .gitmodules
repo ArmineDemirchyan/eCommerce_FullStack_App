@@ -1,0 +1,3 @@
+[submodule "e_Commerce_Admin_Dashboard"]
+	path = e_Commerce_Admin_Dashboard
+	url = https://github.com/ArmineDemirchyan/eCommerce_Admin_Dashboard.git
